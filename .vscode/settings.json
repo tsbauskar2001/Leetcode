@@ -1,0 +1,5 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "C_Cpp.formatting": "default",
+    "editor.formatOnSave": true,
+}
